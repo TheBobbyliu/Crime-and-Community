@@ -1,4 +1,4 @@
-# Crime-and-Community
+# Crime-and-Community Data Analysis
 This work is a submit for an assignment of the course MIE1628 in the University of Toronto. It is based on a dataset **Communities and Crime** from UC Irvine Machine Learning Repository: https://archive.ics.uci.edu/dataset/183/communities+and+crime
 
 Overview of the work:
